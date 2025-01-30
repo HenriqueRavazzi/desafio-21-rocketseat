@@ -60,7 +60,7 @@ Desafio proposto pela <a href="https://rocketseat.com.br">Rocketseat</a> com 21 
       <img src="https://github.com/HenriqueRavazzi.png" width="100px" />
     </td>
     <td>
-      Feito por <a href="https://github.com/HenriqueRavazzi">Henrique Ravazzi.</a> 🙋🏿‍♂️
+      Feito por <a href="https://github.com/HenriqueRavazzi">Henrique Ravazzi.</a>
     </td>
   </tr>
 </table>
