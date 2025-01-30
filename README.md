@@ -1,16 +1,16 @@
 # Desafio de 21 dias de código 🚀
 
-## 🤔 O que é?
+## 🤔 Qual a ideia e como funciona?
 
 Desafio proposto pela <a href="https://rocketseat.com.br">Rocketseat</a> com 21 projetos para serem desenvolvidos em 21 dias, cada um em um dia, no propósito de estimular a prática diária de estudos de programação.
 
 ***Os desafios foram divididos em 3 partes, estando disponíveis no Instagram da Rocketseat, e acessíveis pelos links abaixo:***
 <br>
-+ <a href="https://www.instagram.com/p/ChTBg1BpLGU/?utm_source=ig_web_copy_link">Parte 1</a>
-+ <a href="https://www.instagram.com/p/ChkahuNOLvF/?utm_source=ig_web_copy_link">Parte 2</a>
-+ <a href="https://www.instagram.com/p/Ch3EOQ0p2sZ/?utm_source=ig_web_copy_link">Parte 3</a>
++ <a href="https://www.instagram.com/p/ChTBg1BpLGU/?utm_source=ig_web_copy_link">Primeira Parte</a>
++ <a href="https://www.instagram.com/p/ChkahuNOLvF/?utm_source=ig_web_copy_link">Segunda Parte</a>
++ <a href="https://www.instagram.com/p/Ch3EOQ0p2sZ/?utm_source=ig_web_copy_link">Terceira Parte</a>
 
-> Fique a vontade e participe também! 🤙🏾
+> Fique a vontade e participe também!
 
 ## 🧠 Tecnologias utilizadas:
 
@@ -22,7 +22,7 @@ Desafio proposto pela <a href="https://rocketseat.com.br">Rocketseat</a> com 21 
 
 ## 💻 Seguem os desafios e os links para os resultados:
 
-### Parte 1
+### Primeira Parte
 
 + #1 - Criar um repositório no Github para por os 21 desafios de cada dia;  <a href="https://henriqueravazzi.github.io/desafio-21-rocketseat">FEITO</a> ✔️
 + #2 - Faça um Hello World customizado com fonte, cor e imagens;  <a href="https://henriqueravazzi.github.io/desafio-21-rocketseat/dia-02/">FEITO</a> ✔️
@@ -32,7 +32,7 @@ Desafio proposto pela <a href="https://rocketseat.com.br">Rocketseat</a> com 21 
 + #6 - Crie um card com o efeito Glassmorphism;  <a href="https://henriqueravazzi.github.io/desafio-21-rocketseat/dia-06">FEITO</a> ✔️
 + #7 - Desenvolva um contador.  <a href="https://henriqueravazzi.github.io/desafio-21-rocketseat/dia-07">FEITO</a> ✔️
 
-### Parte 2
+### Segunda Parte
 
 + #8 - Desenvolva um toggle que altere o tema para claro e escuro;  <a href="https://henriqueravazzi.github.io/desafio-21-rocketseat/dia-08">FEITO</a> ✔️
 + #9 - Crie uma animação de loading;  <a href="https://henriqueravazzi.github.io/desafio-21-rocketseat/dia-09">FEITO</a> ✔️
@@ -42,7 +42,7 @@ Desafio proposto pela <a href="https://rocketseat.com.br">Rocketseat</a> com 21 
 + #13 - Desenvolva um menu responsivo;  <a href="https://henriqueravazzi.github.io/desafio-21-rocketseat/dia-13">FEITO</a> ✔️
 + #14 - Crie um formulário de quizzes;  <a href="https://henriqueravazzi.github.io/desafio-21-rocketseat/dia-14">FEITO</a> ✔️
 
-### Parte 3
+### Terceira Parte
 
 + #15 - Desenvolva um site que exiba uma vitrine de produtos de um e-commerce fictício (com nome dos produtos, preços e imagens);  <a href="https://henriqueravazzi.github.io/desafio-21-rocketseat/dia-15">FEITO</a> ✔️
 + #16 - Desenvolva um site utilizando alguma API pública;  <a href="https://henriqueravazzi.github.io/desafio-21-rocketseat/dia-16">FEITO</a> ✔️
