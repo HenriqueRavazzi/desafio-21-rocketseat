@@ -25,7 +25,7 @@ Desafio proposto pela <a href="https://rocketseat.com.br">Rocketseat</a> com 21 
 ### Parte 1
 
 + #1 - Criar um repositório no Github para por os 21 desafios de cada dia;  <a href="https://henriqueravazzi.github.io/desafio-21-rocketseat">FEITO</a> ✔️
-+ #2 - Faça um Hello World customizado com fonte, cor e imagens;  <a href="https://henriqueravazzi.github.io/desafio-21-rocketseat/dia-02/">FEITO</a> ✔️">FEITO</a> ✔️
++ #2 - Faça um Hello World customizado com fonte, cor e imagens;  <a href="https://henriqueravazzi.github.io/desafio-21-rocketseat/dia-02/">FEITO</a> ✔️
 + #3 - Crie um botão animado;  <a href="https://henriqueravazzi.github.io/desafio-21-rocketseat/dia-03">FEITO</a> ✔️
 + #4 - Crie uma calculadora;  <a href="https://henriqueravazzi.github.io/desafio-21-rocketseat/dia-04">FEITO</a> ✔️
 + #5 - Desenvolva uma página costumizada que exiba o erro 404;  <a href="https://henriqueravazzi.github.io/desafio-21-rocketseat/dia-05">FEITO</a> ✔️
